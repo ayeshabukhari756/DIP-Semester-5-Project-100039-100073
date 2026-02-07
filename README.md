@@ -1,11 +1,11 @@
 **Project Title**:
                   Color Image Enhancement and Sharpening
 
-**Student Name**:
-                  Syeda Ayesha Jamshed.
+**Students Name**:
+                  Syeda Ayesha Jamshed, Javeria Asghar.
 
 **Roll Number:**
-                 100039.
+                 100039,100073.
 
 **Course Name:**
               Digital Image Processing
