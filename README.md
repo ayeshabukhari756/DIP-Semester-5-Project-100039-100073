@@ -2,10 +2,10 @@
                   Color Image Enhancement and Sharpening
 
 **Student Name**:
-                  Syeda Ayesha Jamshed, Javeria Asghar
+                  Syeda Ayesha Jamshed.
 
 **Roll Number:**
-                 100039,100073
+                 100039.
 
 **Course Name:**
               Digital Image Processing
